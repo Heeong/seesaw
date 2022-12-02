@@ -360,6 +360,7 @@
     background-repeat: no-repeat;
     position: absolute;
     top: 85px;    
+    z-index: 3;
 }
 .c30{
     background-image: url(img_m/08_goo.png);
@@ -380,6 +381,7 @@
     background-repeat: no-repeat;
     position: absolute;
     top: 375px;
+    z-index: 3;
 }
 .c32{
     background-image: url(img_m/08_for.png);
