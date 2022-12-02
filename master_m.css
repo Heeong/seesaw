@@ -55,7 +55,7 @@
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: -40px;
+    top: -60px;
 }
 .c02{
     background-image: url(img_m/01_02.png);
@@ -65,7 +65,7 @@
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 155px;
+    top: 130px;
 }
 .c03{
     background-image: url(img_m/01_03.png);
@@ -75,7 +75,7 @@
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 45px;
+    top: 20px;
 }
 .c04{
     background-image: url(img_m/01_04.png);
@@ -85,7 +85,7 @@
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    bottom: -340px;
+    bottom: -310px;
     margin-left: -60px;
 }
 
@@ -234,53 +234,53 @@
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 270px;
+    top: 265px;
 }
 .c19{
     background-image: url(img_m/06_all.png);
-    width: 601px;
-    height: 338px;
+    width: 150.17px;
+    height: 84.47px;
     background-size: 150.17px 84.47px;
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 285px;
+    top: 405px;
     margin-left: -159px;
     z-index: 3;
 }
 .c20{
     background-image: url(img_m/06_07.png);
-    width: 601px;
-    height: 338px;
+    width: 150.17px;
+    height: 84.47px;
     background-size: 150.17px 84.47px;
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 285px;
+    top: 405px;
     margin-right: -159px;
     z-index: 3;
 }
 .c21{
     background-image: url(img_m/06_12.png);
-    width: 601px;
-    height: 338px;
+    width: 150.17px;
+    height: 84.47px;
     background-size: 150.17px 84.47px;
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 378px;
+    top: 500px;
     margin-left: -159px;
     z-index: 3;
 }
 .c22{
     background-image: url(img_m/06_15.png);
-    width: 601px;
-    height: 338px;
+    width: 150.17px;
+    height: 84.47px;
     background-size: 150.17px 84.47px;
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
-    top: 378px;
+    top: 500px;
     margin-right: -159px;
     z-index: 3;
 }
